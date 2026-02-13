@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER / HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Loukas%20Louka&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20%26%20Engineering%20%7C%20Robotics%20Champion%20%7C%20Builder&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Loukas%20Louka&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=1st+Year+CSEN+%40+AUB+Mediterraneo;International+Robotics+Champion+%E2%80%94+50%2B+Medals;Building+software+that+matters.)](https://git.io/typing-svg)
 
