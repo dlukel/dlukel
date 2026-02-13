@@ -196,13 +196,11 @@ A terminal-based TODO manager built in Python with multi-user task assignment, s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dlukel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlukel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" />
+<img src="https://streak-stats.demolab.com/?user=dlukel&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=dlukel&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dlukel&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb" width="95%" />
 
 </div>
 
