@@ -22,7 +22,7 @@
 ## 🧑‍💻 About Me
 
 ```text
-🎓  First-year CSEN student at AUB Mediterraneo (100% Merit Based Scholarship)
+🎓  Second-year CSEN student at AUB Mediterraneo (100% Merit Based Scholarship)
 🤖  8+ years of international competitive robotics — 50+ medals worldwide
 🏆  ETEK Excellence Award Winner | Dean's Honor List | 20/20 GPA Aristeio
 🧠  Mensa Member (Top 2% IQ) | UCMAS National Champion
@@ -30,7 +30,7 @@
 🔭  Currently exploring: Software Engineering, Embedded Systems & Algorithm Design
 ```
 
-> *I'm a first-year CSEN student at American University of Beirut Mediterraneo, combining rigorous academic training with proven technical excellence from 8+ years of international competitive robotics. Competitive robotics and international competitions taught me algorithm optimization under real-time pressure, problem-solving with hardware constraints, team leadership across cultures, rapid prototyping, and performance under international competition.*
+> *I'm a second-year CSEN student at American University of Beirut Mediterraneo, combining rigorous academic training with proven technical excellence from 8+ years of international competitive robotics. Competitive robotics and international competitions taught me algorithm optimization under real-time pressure, problem-solving with hardware constraints, team leadership across cultures, rapid prototyping, and performance under international competition.*
 >
 > *Currently pursuing CSEN to formalize my technical skills and explore opportunities in Software Engineering, Embedded Systems, Algorithm Design, and Competitive Programming.*
 
