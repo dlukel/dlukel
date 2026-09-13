@@ -9,8 +9,6 @@
 <a href="https://github.com/dlukel/MaCake"><img src="https://img.shields.io/badge/MaCake-181717?style=for-the-badge&logo=github&logoColor=white" alt="MaCake on GitHub" /></a>
 <a href="https://aubmed.ac.cy"><img src="https://img.shields.io/badge/AUB_Mediterraneo-8B0000?style=for-the-badge" alt="AUB Mediterraneo" /></a>
 
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=dlukel&color=1f6feb&style=flat-square&label=Profile+Views" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/dlukel?style=flat-square&color=1f6feb&label=Followers" alt="GitHub followers" />
 
@@ -22,9 +20,9 @@ I am a second-year Computer Science and Engineering student at the American Univ
 
 <table>
 <tr>
-<td align="center" width="33%"><h3>100%</h3>Merit-based scholarship</td>
-<td align="center" width="34%"><h3>Dean's Honor List</h3>Fall 2025</td>
-<td align="center" width="33%"><h3>51 medals</h3>With my robotics teams</td>
+<td align="center" width="250"><h3>100%</h3>Merit-based scholarship</td>
+<td align="center" width="250"><h3>Dean's Honor List</h3>Fall 2025</td>
+<td align="center" width="250"><h3>51 medals</h3>With my robotics teams</td>
 </tr>
 </table>
 
@@ -197,9 +195,9 @@ I led teams in international robotics competitions and mentored younger members 
 
 <table>
 <tr>
-<td align="center" width="33%"><h3>🥇 26</h3>Gold medals</td>
-<td align="center" width="34%"><h3>🥈 17</h3>Silver medals</td>
-<td align="center" width="33%"><h3>🥉 8</h3>Bronze medals</td>
+<td align="center" width="250"><h3>🥇 26</h3>Gold medals</td>
+<td align="center" width="250"><h3>🥈 17</h3>Silver medals</td>
+<td align="center" width="250"><h3>🥉 8</h3>Bronze medals</td>
 </tr>
 </table>
 
@@ -226,11 +224,7 @@ I speak Greek, English, and French.
 
 ## 📊 GitHub activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dlukel&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dlukel&theme=github-light&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dlukel&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb" width="100%" alt="Loukas Louka's recent GitHub contribution activity" />
-</picture>
+<img src="https://ghchart.rshah.org/1f6feb/dlukel" width="100%" alt="GitHub contribution calendar for dlukel" />
 
 <div align="center">
 
