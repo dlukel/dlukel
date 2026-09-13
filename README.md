@@ -21,7 +21,7 @@ I am a second-year Computer Science and Engineering student at the American Univ
 <table>
 <tr>
 <td align="center" width="250"><h3>100%</h3>Merit-based scholarship</td>
-<td align="center" width="250"><h3>Dean's Honor List</h3>Fall 2025</td>
+<td align="center" width="250"><h3>Dean's Honor List</h3>Fall 2025 and Spring 2026</td>
 <td align="center" width="250"><h3>51 medals</h3>With my robotics teams</td>
 </tr>
 </table>
@@ -211,7 +211,7 @@ Our teams competed in **Estonia, Cyprus, Greece, and Germany**.
 American University of Beirut Mediterraneo, 2025 to 2029
 
 - **100% merit-based scholarship**
-- **Dean's Honor List** for Fall 2025
+- **Dean's Honor List** for Fall 2025 and Spring 2026
 - **ETEK Excellence Awards** in Computer Science and Science Subjects
 - **20/20 school GPA** at Lyceum Giannaki Talioti
 
