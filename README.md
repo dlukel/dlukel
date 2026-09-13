@@ -1,6 +1,6 @@
 # Loukas Louka
 
-I'm a second-year Computer Science and Engineering student at the American University of Beirut Mediterraneo in Cyprus. My work includes web applications, competitive robotics, and software that runs close to the operating system.
+I am a second-year Computer Science and Engineering student at the American University of Beirut Mediterraneo in Cyprus. My work includes web applications, competitive robotics, and software that runs close to the operating system.
 
 [LinkedIn](https://www.linkedin.com/in/loukaslouka/)
 
@@ -58,6 +58,6 @@ An interactive web simulator for Hamming error-correcting codes. It demonstrates
 
 Before university, I led teams at Y. Laouris Informatique in international robotics competitions and mentored younger members in programming. Our results included 26 gold, 17 silver, and 8 bronze medals across competitions in Estonia, Greece, Germany, and Cyprus.
 
-I'm studying on a full merit scholarship and earned a place on the Dean's Honor List for Fall 2025. I received ETEK Excellence Awards in Computer Science and Science Subjects, and graduated from Lyceum Giannaki Talioti with a 20/20 school GPA.
+I am studying on a 100% merit-based scholarship and earned a place on the Dean's Honor List for Fall 2025. I received ETEK Excellence Awards in Computer Science and Science Subjects, and graduated from Lyceum Giannaki Talioti with a 20/20 school GPA.
 
 My interests are software engineering, systems programming, and robotics. I speak Greek, English, and French.
