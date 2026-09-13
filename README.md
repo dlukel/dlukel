@@ -53,6 +53,8 @@ I completed courses by Andrew Ng on Coursera and independently worked through MI
 
 Compares 22 measurements with a person's history and a reference cohort, then explains what contributes to a deviation score. The interactive demo uses generated profiles and publishes evaluation results and limitations. These simulations do not establish clinical effectiveness.
 
+Christiana Tosonidou also contributed to ATOPOS.
+
 <a href="https://atopos-med.vercel.app/"><img src="https://img.shields.io/badge/Explore_the_demo-1f6feb?style=flat-square" alt="Explore the ATOPOS demo" /></a>
 
 </td>
