@@ -38,7 +38,15 @@ Alongside the internship, I worked on low level embedded systems and completed a
 <details>
 <summary><b>Coursework and independent study</b></summary>
 
-I completed courses by Andrew Ng on Coursera and independently worked through MIT OpenCourseWare courses on YouTube. My studies covered statistics, linear algebra, probability, and calculus for AI, alongside AI literacy, embedded systems design, and robotics.
+I completed Andrew Ng's [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/YNWT9K7DORAX) from DeepLearning.AI and Stanford Online in September 2026.
+
+- [Supervised Machine Learning](https://www.coursera.org/account/accomplishments/verify/0GRG6EC3QPCW), regression and classification. Grade 100%.
+- [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/APJX5LYA37M6). Grade 100%.
+- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/verify/SXV4JUXUDU7B). Grade 99.40%.
+
+I also completed [Claude 101](https://academy.claude.com/verify/90948e088c89ee116870c4e335fe16c7) through Anthropic's Claude Academy in June 2026.
+
+My independent study includes MIT OpenCourseWare on YouTube, covering statistics, linear algebra, probability, and calculus for AI. I have also studied AI literacy, embedded systems design, and robotics.
 
 </details>
 
