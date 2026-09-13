@@ -4,7 +4,29 @@ I'm a second-year Computer Science and Engineering student at the American Unive
 
 [LinkedIn](https://www.linkedin.com/in/loukaslouka/)
 
+## Summer 2026
+
+From 15 July to 15 August, I interned at Nepheli AI. I contributed to optimizing the Hermeez Agent and worked with the team on mechanisms intended to improve precision, recall, and F1 scores in AI systems. I also gained experience with Amazon Web Services.
+
+Alongside the internship, I worked on low level embedded systems. Managing both helped me get better at planning tasks and allocating time across projects.
+
+I also completed courses in AI literacy, linear algebra and statistics for AI, embedded systems design, and robotics.
+
 ## Recent work
+
+### [ATOPOS](https://atopos-med.vercel.app/)
+
+An interactive research demonstrator for tracking changes in health measurements over time. It compares 22 measurements with a person's history and a reference cohort, then shows which measurements contribute to the deviation score.
+
+The demo lets users explore generated profiles, follow trajectories, and compare a simulated change with the same profile without that change. Its published evaluations cover detection performance, false alarms, and the limits of the original early detection hypothesis. Results from these simulations do not establish clinical effectiveness.
+
+### Line following and adaptive cruise control
+
+A completed robotics project exploring line following and adaptive cruise control with PID, LQR, MPC, and machine learning.
+
+### Programming language
+
+I designed a programming language organized around facts as part of a course and a side project.
 
 ### [MaCake](https://github.com/dlukel/MaCake)
 
