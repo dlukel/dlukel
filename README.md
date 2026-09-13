@@ -10,7 +10,7 @@ From 15 July to 15 August, I interned at Nepheli AI. I contributed to optimizing
 
 Alongside the internship, I worked on low level embedded systems. Managing both helped me get better at planning tasks and allocating time across projects.
 
-I also completed courses in AI literacy, linear algebra and statistics for AI, embedded systems design, and robotics.
+I completed courses by Andrew Ng on Coursera and independently worked through MIT OpenCourseWare courses on YouTube. My studies covered statistics, linear algebra, probability, and calculus for AI, alongside AI literacy, embedded systems design, and robotics.
 
 ## Recent work
 
